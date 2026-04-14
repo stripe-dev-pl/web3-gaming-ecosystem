@@ -27,12 +27,7 @@ export default function Qatar2022() {
   return (
     <>
       <div className="md:px-2">
-        <div className="absolute left-0 top-0 -z-10 flex h-[420px] w-full flex-col items-center justify-center overflow-hidden">
-          <img src="/img/mask.webp" alt="mask" className="absolute left-0 top-0 hidden h-[420px] w-full md:block" />
-          <div className="h-[420px] w-[1920px]">
-            <img width={1440} className="mx-auto" src="https://cdn1.p12.games/airdrop/collab/qatar_banner3.webp" alt="banner" />
-          </div>
-        </div>
+        
         <div>
           <h1 className="mt-12 text-[36px] font-semibold leading-9">BNB Chain Football Fiesta @ P12</h1>
           <div className="mt-3 flex gap-3">
